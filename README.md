@@ -4,4 +4,4 @@ Bu proje C# programlama dili ve Microsoft SQL Server Database'i kullanılarak ya
 Otel Otomasyonu C# diline giriş ve Database deneyimi sağlamak adına oluşturulmuş bir projedir.<br/>
 
 
-![Screenshot](icon.png)
+![Home](https://github.com/halilozel1903/OtelOtomasyonu/blob/master/home.JPG?raw=true)
